@@ -3,4 +3,5 @@
 *.iml
 *.class
 *Test.java
+*.DS_Store
 **/test/
